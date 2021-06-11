@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cryptohawk.com	TRUE	/	FALSE	1999999999	PHPSESSID	scej90s1q03nuulhuang9gag87
+.foxpush.com	TRUE	/	FALSE	1999999999	__cfduid	d8b676c94838d540051741e2fd459dff81520691071
+cryptohawk.com	TRUE	/	FALSE	1999999999	lang	english
+
